@@ -1,6 +1,5 @@
 
-# Registration: 202454202008  -> last 3 digits = 008 -> studentID = 8
-#                              -> last digit   = 8   -> Q2(8)
+# Registration: 202454202008  
 
 
 pkgs<-c('forecast','tseries','waveslim','rugarch','FinTS','lmtest')
